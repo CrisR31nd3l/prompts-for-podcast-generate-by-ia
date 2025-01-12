@@ -30,14 +30,14 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados, para o desafio de projeto " Criando um Podcast com IAs Generativas" 
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Leonardo AI] (https://app.leonardo.ai/image-generation)
+- [Leonardo AI](https://app.leonardo.ai/image-generation)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
