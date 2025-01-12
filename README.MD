@@ -19,7 +19,8 @@
 </div>
 
 # Projeto Podcast Gerado por I.A.s
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados, para o desafio de projeto " Criando um Podcast com IAs Generativas" 
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados, para o desafio de projeto " Criando um Podcast com IAs Generativas".
+Foi criado o Podcast: "O Guia da Fortuna Galáctica - O equilíbrio da força no seu bolso" e tem foco em finanças pessoais para iniciantes e leigos no assunto." 🌠
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
